@@ -1,5 +1,5 @@
-# Transformer-in-Vision
-Recent Transformer-based CV and related works. Welcome to comment/contribute!
+# Efficient-Transformers-in-Vision
+Recent Efficient Transformers for Computer Vision. Welcome to comment/contribute!
 
 Keep updated.
 
