@@ -1,5 +1,8 @@
-# Efficient-Transformers-in-Vision
-Recent Efficient Transformers for Computer Vision. Welcome to comment/contribute!
+# Efficient-Transformers-in-Vision: A Survey
+
+A detailed survey focus on recent efficient transformers for mainstream computer vision tasks.
+
+Welcome to comment/contribute!
 
 Keep updated.
 
