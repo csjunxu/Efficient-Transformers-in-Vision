@@ -130,7 +130,7 @@ Keep updated.
 
 - (arXiv 2022.06) , [[Paper]]() -->
 
-- (arXiv 2022.06) Video2**StyleGAN**: Encoding **Video** in Latent Space for **Manipulation**, [[Paper]](https://arxiv.org/pdf/2206.13078.pdf)
+- (arXiv 2022.06) (Efficient Transformer)Video2**StyleGAN**: Encoding **Video** in Latent Space for **Manipulation**, [[Paper]](https://arxiv.org/pdf/2206.13078.pdf)
 
 - (arXiv 2022.06) Text-Driven **Stylization** of **Video** Objects, [[Paper]](https://arxiv.org/pdf/2206.12396.pdf), [[Project]](https://sloeschcke.github.io/Text-Driven-Stylization-of-Video-Objects/)
 
@@ -178,7 +178,7 @@ Keep updated.
 
 - (arXiv 2022.06) **Vicinity** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.10552.pdf), [[Code]](https://github.com/OpenNLPLab/Vicinity-Vision-Transformer)
 
-- (arXiv 2022.06) EdgeNeXt: **Efficiently** Amalgamated **CNN-Transformer** Architecture for Mobile Vision Applications, [[Paper]](https://arxiv.org/pdf/2206.10589.pdf), [[Code]](https://t.ly/_Vu9)
+- (arXiv 2022.06) (Efficient Transformer)EdgeNeXt: **Efficiently** Amalgamated **CNN-Transformer** Architecture for Mobile Vision Applications, [[Paper]](https://arxiv.org/pdf/2206.10589.pdf), [[Code]](https://t.ly/_Vu9)
 
 - (arXiv 2022.06) Temporally Consistent Semantic **Video Editing**, [[Paper]](https://arxiv.org/pdf/2206.10590.pdf)
 
@@ -338,7 +338,7 @@ Keep updated.
 
 - (arXiv 2022.06) Contra**CLIP**: Interpretable **GAN** generation driven by pairs of contrasting sentences, [[Paper]](https://arxiv.org/pdf/2206.02104.pdf), [[Code]](https://github.com/chi0tzp/ContraCLIP)
 
-- (arXiv 2022.06) EAANet: **Efficient** Attention Augmented Convolutional Networks, [[Paper]](https://arxiv.org/pdf/2206.01821.pdf)
+- (arXiv 2022.06)(Efficent Transformer) EAANet: **Efficient** Attention Augmented Convolutional Networks, [[Paper]](https://arxiv.org/pdf/2206.01821.pdf)
 
 - (arXiv 2022.06) Visual Clues: Bridging **Vision and Language** Foundations for Image Paragraph **Captioning**, [[Paper]](https://arxiv.org/pdf/2206.01843.pdf)
 
