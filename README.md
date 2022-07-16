@@ -154,7 +154,7 @@ Keep updated.
 
 - (arXiv 2022.06) SAViR-T: Spatially Attentive** Visual Reasoning** with Transformers, [[Paper]](https://arxiv.org/pdf/2206.09265.pdf)
 
-- (arXiv 2022.06) EATFormer: Improving Vision Transformer Inspired by **Evolutionary** Algorithm, [[Paper]](https://arxiv.org/pdf/2206.09325.pdf), [[Code]](https://https//github.com/zhangzjn/EATFormer)
+- (arXiv 2022.06) (Efficient Transformer)EATFormer: Improving Vision Transformer Inspired by **Evolutionary** Algorithm, [[Paper]](https://arxiv.org/pdf/2206.09325.pdf), [[Code]](https://https//github.com/zhangzjn/EATFormer)
 
 - (arXiv 2022.06) Dual**CoOp**: Fast Adaptation to **Multi-Label** Recognition with Limited Annotations, [[Paper]](https://arxiv.org/pdf/2206.09541.pdf)
 
@@ -174,9 +174,9 @@ Keep updated.
 
 - (arXiv 2022.06) Sem**MAE**: Semantic-Guided Masking for Learning Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2206.10207.pdf)
 
-- (arXiv 2022.06) TRANSFORMER-BASED MULTI-MODAL PROPOSAL AND RE-RANK FOR WIKIPEDIA **IMAGE-CAPTION** MATCHING, [[Paper]](https://arxiv.org/pdf/2206.10436.pdf), [[Code]](https://github.com/mesnico/Wiki-Image-Caption-Matching)
+- (arXiv 2022.06) (Efficient Transformer)TRANSFORMER-BASED MULTI-MODAL PROPOSAL AND RE-RANK FOR WIKIPEDIA **IMAGE-CAPTION** MATCHING, [[Paper]](https://arxiv.org/pdf/2206.10436.pdf), [[Code]](https://github.com/mesnico/Wiki-Image-Caption-Matching)
 
-- (arXiv 2022.06) **Vicinity** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.10552.pdf), [[Code]](https://github.com/OpenNLPLab/Vicinity-Vision-Transformer)
+- (arXiv 2022.06) (Efficient Transformer)**Vicinity** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.10552.pdf), [[Code]](https://github.com/OpenNLPLab/Vicinity-Vision-Transformer)
 
 - (arXiv 2022.06) (Efficient Transformer)EdgeNeXt: **Efficiently** Amalgamated **CNN-Transformer** Architecture for Mobile Vision Applications, [[Paper]](https://arxiv.org/pdf/2206.10589.pdf), [[Code]](https://t.ly/_Vu9)
 
@@ -198,7 +198,7 @@ Keep updated.
 
 - (arXiv 2022.06) CtrlFormer: Learning Transferable State Representation for **Visual Control** via Transformer, [[Paper]](https://arxiv.org/pdf/2206.08883.pdf), [[Project]](https://sites.google.com/view/ctrlformer-icml/)
 
-- (arXiv 2022.06) SimA: Simple **Softmax-free** **Attention** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.08898.pdf), [[Code]](https://github.com/UCDvision/sima)
+- (arXiv 2022.06) (Efficient Transformer)SimA: Simple **Softmax-free** **Attention** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.08898.pdf), [[Code]](https://github.com/UCDvision/sima)
 
 - (arXiv 2022.06) UNIFIED-IO: A **UNIFIED MODEL** FOR **VISION, LANGUAGE**, AND **MULTI-MODAL** TASKS, [[Paper]](https://arxiv.org/pdf/2206.08916.pdf), [[Project]](https://unified-io.allenai.org/)
 
@@ -236,7 +236,7 @@ Keep updated.
 
 - (arXiv 2022.06) Coarse-to-Fine **Vision-Language** Pre-training with Fusion in the Backbone, [[Paper]](https://arxiv.org/pdf/2206.07643.pdf), [[Code]](https://github.com/microsoft/FIBER)
 
-- (arXiv 2022.06) SP-ViT: Learning **2D Spatial Priors** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.07662.pdf)
+- (arXiv 2022.06) (Efficient Transformer)SP-ViT: Learning **2D Spatial Priors** for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.07662.pdf)
 
 - (arXiv 2022.06) A Simple **Data Mixing** Prior for Improving **Self-Supervised** Learning, [[Paper]](https://arxiv.org/pdf/2206.07692.pdf), [[Code]](https://github.com/OliverRensu/SDMP)
 
@@ -280,7 +280,7 @@ Keep updated.
 
 - (arXiv 2022.06) Exploring **Adversarial Attacks** and **Defenses** in Vision Transformers trained with **DINO**, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf)
 
-- (arXiv 2022.06) **Peripheral** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.06801.pdf), [[Code]](http://cvlab.postech.ac.kr/research/PerViT/)
+- (arXiv 2022.06) (Efficient Transformer)**Peripheral** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.06801.pdf), [[Code]](http://cvlab.postech.ac.kr/research/PerViT/)
 
 - (arXiv 2022.06) Efficient Decoder-free Object **Detection** with Transformers, [[Paper]](https://arxiv.org/pdf/2206.06829.pdf), [[Code]](https://github.com/Pealing/DFFT.)
 
@@ -312,7 +312,7 @@ Keep updated.
 
 - (arXiv 2022.06) Sparse Fusion **Mixture-of-Experts** are Domain Generalizable Learners, [[Paper]](https://arxiv.org/pdf/2206.04046.pdf), [[Code]](https://github.com/Luodian/SF-MoE-DG)
 
-- (arXiv 2022.06) VN-Transformer: **Rotation-Equivariant** Attention for Vector Neurons, [[Paper]](https://arxiv.org/pdf/2206.04176.pdf)
+- (arXiv 2022.06) (Efficient Transformer)VN-Transformer: **Rotation-Equivariant** Attention for Vector Neurons, [[Paper]](https://arxiv.org/pdf/2206.04176.pdf)
 
 - (arXiv 2022.06) **CLIP**-Actor: **Text**-Driven Recommendation and Stylization for **Animating Human Meshes**, [[Paper]](https://arxiv.org/pdf/2206.04382.pdf), [[Code]](https://github.com/Youwang-Kim/CLIP-Actor)
 
@@ -320,7 +320,7 @@ Keep updated.
 
 - (arXiv 2022.06) Draft-and-Revise: Effective **Image Generation** with Contextual RQ-Transformer, [[Paper]](https://arxiv.org/pdf/2206.04452.pdf)
 
-- (arXiv 2022.06) cycle text2face: cycle **text-to-face gan** via transformers, [[Paper]](https://arxiv.org/pdf/2206.04503.pdf)
+- (arXiv 2022.06) (Efficient Transformer)cycle text2face: cycle **text-to-face gan** via transformers, [[Paper]](https://arxiv.org/pdf/2206.04503.pdf)
 
 - (arXiv 2022.06) Efficient and Robust **2D-to-BEV** Representation Learning via Geometry-guided Kernel Transformer, [[Paper]](https://arxiv.org/pdf/2206.04584.pdf), [[Code]](https://github.com/hustvl/GKT)
 
@@ -342,7 +342,7 @@ Keep updated.
 
 - (arXiv 2022.06) Visual Clues: Bridging **Vision and Language** Foundations for Image Paragraph **Captioning**, [[Paper]](https://arxiv.org/pdf/2206.01843.pdf)
 
-- (arXiv 2022.06) Recurrent **Video Restoration** Transformer with Guided Deformable Attention, [[Paper]](https://arxiv.org/pdf/2206.02146.pdf), [[Code]](https://github.com/JingyunLiang/RVRT)
+- (arXiv 2022.06) (Efficient Transformer)Recurrent **Video Restoration** Transformer with Guided Deformable Attention, [[Paper]](https://arxiv.org/pdf/2206.02146.pdf), [[Code]](https://github.com/JingyunLiang/RVRT)
 
 - (arXiv 2022.06) Rethinking the **Openness** of **CLIP**, [[Paper]](https://arxiv.org/pdf/2206.01986.pdf)
 
@@ -352,7 +352,7 @@ Keep updated.
 
 - (arXiv 2022.06) CONTRASTIVE GRAPH MULTIMODAL MODEL FOR **TEXT CLASSIFICATION** IN VIDEOS, [[Paper]](https://arxiv.org/pdf/2206.02343.pdf)
 
-- (arXiv 2022.06) Separable **Self-attention** for **Mobile** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.02680.pdf), [[Code]](https://github.com/apple/ml-cvnets)
+- (arXiv 2022.06) (Efficient Transformer)Separable **Self-attention** for **Mobile** Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.02680.pdf), [[Code]](https://github.com/apple/ml-cvnets)
 
 - (arXiv 2022.06) Mask **DINO**: Towards A Unified Transformer-based Framework for Object **Detection** and **Segmentation**, [[Paper]](https://arxiv.org/pdf/2206.02777.pdf), [[Code]](https://github.com/IDEACVR/MaskDINO)
 
@@ -392,7 +392,7 @@ Keep updated.
 
 - (arXiv 2022.06) VL-BEIT: Generative **Vision-Language** Pretraining, [[Paper]](https://arxiv.org/pdf/2206.01127.pdf), [[Code]](https://github.com/microsoft/unilm)
 
-- (arXiv 2022.06) **Efficient**Former: Vision Transformers at MobileNet Speed, [[Paper]](https://arxiv.org/pdf/2206.01191.pdf), [[Code]](https://github.com/snap-research/EfficientFormer)
+- (arXiv 2022.06) (Efficient Transformer)**Efficient**Former: Vision Transformers at MobileNet Speed, [[Paper]](https://arxiv.org/pdf/2206.01191.pdf), [[Code]](https://github.com/snap-research/EfficientFormer)
 
 - (arXiv 2022.06) REVIVE: Regional Visual Representation Matters in Knowledge-Based **Visual Question Answering**, [[Paper]](https://arxiv.org/pdf/2206.01201.pdf)
 
@@ -404,7 +404,7 @@ Keep updated.
 
 - (CVPR 2022) Human **Trajectory Prediction** with Momentary Observation, [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)
 
-- (arXiv 2022.06) Where are my Neighbors? Exploiting Patches Relations in **Self-Supervised** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.00481.pdf)
+- (arXiv 2022.06) (Efficient Transformer)Where are my Neighbors? Exploiting Patches Relations in **Self-Supervised** Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.00481.pdf)
 
 - (arXiv 2022.06) Unifying Voxel-based Representation with Transformer for **3D Object Detection**, [[Paper]](https://arxiv.org/pdf/2206.00630.pdf), [[Code]](https://github.com/dvlab-research/UVTR)
 
